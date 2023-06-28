@@ -24,5 +24,8 @@
    >> 인용문 안에 인용문 
 4. 링크\
    링크를 표시하기 위해 '\[링크텍스트](링크주소)'형식을 사용합니다.\
-   [my github](https://github.com/rlgusrlcks00)\
+   [my github](https://github.com/rlgusrlcks00)
+5. 이미지\
+   이미지를 삽입하기 위해 '\![대체텍스트](이미지 주소)'형식을 사용합니다.\
+   
    
