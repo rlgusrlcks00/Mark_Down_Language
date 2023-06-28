@@ -28,4 +28,7 @@
 5. 이미지\
    이미지를 삽입하기 위해 '\![대체텍스트](이미지 주소)'형식을 사용합니다.\
    ![깃허브이미지](https://postfiles.pstatic.net/MjAyMjA0MTFfMzMg/MDAxNjQ5NjM2NzkwMjkx.Kx7B-71JmHhBTZ5y7IIU1JGBFQjEJoEIAWiDzyIW9Rgg.nfV1q_Pdr-IOLI-JEMGHCdaUL9BCSSSJJyGdgkW5Jmkg.PNG.qkrrlcks_99/%EC%9D%B8%EB%AC%BC_1.png?type=w773)
+6. 코드 블록\
+   인라인 코드는 '코드내용'으로 합니다.\
+   'print("Hello, world!")
    
